@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectJuntos", "ProjectJuntos\ProjectJuntos.csproj", "{AFABA27F-28FA-4569-9EE7-E0255EA0D7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectJuntos.Tests", "ProjectJuntos.Tests\ProjectJuntos.Tests.csproj", "{A1DB1B49-8534-4171-B0BC-0C87C115AE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFABA27F-28FA-4569-9EE7-E0255EA0D7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABA27F-28FA-4569-9EE7-E0255EA0D7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFABA27F-28FA-4569-9EE7-E0255EA0D7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFABA27F-28FA-4569-9EE7-E0255EA0D7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DB1B49-8534-4171-B0BC-0C87C115AE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DB1B49-8534-4171-B0BC-0C87C115AE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DB1B49-8534-4171-B0BC-0C87C115AE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DB1B49-8534-4171-B0BC-0C87C115AE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
